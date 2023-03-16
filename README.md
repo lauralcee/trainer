@@ -1,1 +1,2 @@
-# trainer
+# Trainer
+An employee [trainer](http://fitappnow.com/), also known as a corporate trainer, is a person who creates and delivers learning programs to teach employees skills that are beneficial for their professional development. A corporate trainer is a profession that comes together with diverse education paths and employment backgrounds. A corporate trainer can work in a variety of business settings from marketing, finance, education, or compliance.
